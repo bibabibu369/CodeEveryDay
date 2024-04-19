@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./fb.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
+    <title>Đăng ký</title>
+</head>
+<body>
+    <div class="my-form">
+        <div class="header">
+            <div class="dang-ky">
+                Sign Up
+            </div>
+            <div class="title">
+                It's free and anyone can join
+            </div>
+        </div>
+
+        <div class="form-body">
+
+            <div class="form-box">
+                <div class="text"><label for="First-Name">First Name</label>:<input type="text"></div>
+                <div class="text"><label for="Last-Name">Last Name</label>:<input type="text"></div>
+                <div class="text"><label for="Email">Your Email</label>: <input type="email"></div>
+                <div class="text"><label for="Password">New Password</label>: <input type="password"></div>
+            
+            </div>
+
+            <div class="form-select">
+
+                <div class="form-gender">
+                    <label for="gender">I am</label>:
+                    <select class="select_1">
+                        <option disabled selected >Select Sex:</option>
+                        <option value="Male">Male</option>
+                        <option value="Female">Female</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </div>
+
+                <div class="form-birthday">
+                    <label for="birthday">Birthday</label>:
+                    <select class="select_1" id="day"></select>
+                    <select class="select_1" id="month"></select>
+                    <select class="select_1" id="year"></select>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="button-click">
+            <button onclick="">Sign Up</button>
+        </div>
+    </div>
+    <script src="./fb.js"></script>
+</body>
+</html>

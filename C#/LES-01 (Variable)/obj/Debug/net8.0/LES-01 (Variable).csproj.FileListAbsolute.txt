@@ -1,0 +1,14 @@
+C:\Users\TRANANHQUAN\Workspace\C#\LES-01 (Variable)\bin\Debug\net8.0\LES-01 (Variable).exe
+C:\Users\TRANANHQUAN\Workspace\C#\LES-01 (Variable)\bin\Debug\net8.0\LES-01 (Variable).deps.json
+C:\Users\TRANANHQUAN\Workspace\C#\LES-01 (Variable)\bin\Debug\net8.0\LES-01 (Variable).runtimeconfig.json
+C:\Users\TRANANHQUAN\Workspace\C#\LES-01 (Variable)\bin\Debug\net8.0\LES-01 (Variable).dll
+C:\Users\TRANANHQUAN\Workspace\C#\LES-01 (Variable)\bin\Debug\net8.0\LES-01 (Variable).pdb
+C:\Users\TRANANHQUAN\Workspace\C#\LES-01 (Variable)\obj\Debug\net8.0\LES-01 (Variable).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRANANHQUAN\Workspace\C#\LES-01 (Variable)\obj\Debug\net8.0\LES-01 (Variable).AssemblyInfoInputs.cache
+C:\Users\TRANANHQUAN\Workspace\C#\LES-01 (Variable)\obj\Debug\net8.0\LES-01 (Variable).AssemblyInfo.cs
+C:\Users\TRANANHQUAN\Workspace\C#\LES-01 (Variable)\obj\Debug\net8.0\LES-01 (Variable).csproj.CoreCompileInputs.cache
+C:\Users\TRANANHQUAN\Workspace\C#\LES-01 (Variable)\obj\Debug\net8.0\LES-01 (Variable).dll
+C:\Users\TRANANHQUAN\Workspace\C#\LES-01 (Variable)\obj\Debug\net8.0\refint\LES-01 (Variable).dll
+C:\Users\TRANANHQUAN\Workspace\C#\LES-01 (Variable)\obj\Debug\net8.0\LES-01 (Variable).pdb
+C:\Users\TRANANHQUAN\Workspace\C#\LES-01 (Variable)\obj\Debug\net8.0\LES-01 (Variable).genruntimeconfig.cache
+C:\Users\TRANANHQUAN\Workspace\C#\LES-01 (Variable)\obj\Debug\net8.0\ref\LES-01 (Variable).dll

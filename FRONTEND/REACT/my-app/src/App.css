@@ -1,0 +1,17 @@
+.container{
+  border: 1px solid blue;
+}
+.task-name{
+  line-height: 2px;
+  font-size: smaller;
+}
+.todo{
+  background-color: rgb(234, 234, 234);
+  color:grey;
+  border-radius: 8px;
+  font-size: smaller;
+  padding: 4px 10px;
+}
+p{
+  color: gray;
+}

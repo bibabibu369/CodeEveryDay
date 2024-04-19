@@ -1,0 +1,85 @@
+body {
+    margin: 100px 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.my-form{
+    border: 1px solid #ccc;
+    height: 600px;
+    width: 500px;
+    background-image: linear-gradient(white, rgba(135, 135, 190, 0.704));
+}
+
+.header{
+    height: 100px;
+    text-align: left;
+    margin: 10px 10px;
+}
+
+.header>.dang-ky{
+    font-size: 1.9rem;
+    font-weight: bold;
+    color: darkblue;
+}
+
+.header>.title{
+    font-size: 1.4rem;
+    color: darkblue;
+    margin-top: 5px;
+}
+
+.form-body{
+    text-align: left;
+    margin: 10px 10px;
+    height: 280px;
+}
+.form-box{
+    font-size: 1.1rem;
+    height: 150px;
+}
+.text{
+    margin-left: 20px;
+    margin: 10px;
+}
+
+.text>label{
+    width: 140px;
+    border: 1px;
+
+}
+
+.text>input{
+    border: 1px solid #ccc;
+    height: 30px;
+    width: 300px;
+    margin-left: 5px;
+}
+
+.form-select{
+    margin-top: 20px;
+    height: 100px; 
+    font-size: 1.1rem;
+}
+.form-gender, 
+.form-birthday{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.select_1{
+    height: 30px;
+}
+
+.button-click{
+    text-align: center;
+}
+button{
+    font-size: 1.2rem;
+    color: white;
+    background-color: green;
+    height: 30px;
+    width: 100px;
+    border: none;
+}
+button:hover{
+    background-color: darkblue;
+}

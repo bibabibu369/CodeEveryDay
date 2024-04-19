@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bai tap JQuery</title>
+    <script src="/FRONTEND/CSS/CLASS/jquery-3.7.1.min.js"></script>
+    <script src="/FRONTEND/CSS/CLASS/jquery-validation-1.19.5/dist/jquery.validate.min.js"></script>
+    <script src="./jquery.js"></script>
+</head>
+
+<style>
+    button {
+        background-color: #06a9ae;
+        color: white;
+        padding: 10px 10px;
+        border: none;
+        cursor: pointer;
+        border-radius: 3px;
+    }
+    
+    button:hover {
+        opacity: 0.7;
+        color: #000;
+    }
+    
+    #account {
+        width: 200px;
+        padding: 10px 13px;
+        margin: 8px 0;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+        box-sizing: border-box;
+    }
+    
+    label, input, button {
+        font-family: quicksand;
+    }
+    
+    .main {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+</style>
+
+<body>
+    <div class="main">
+        <form id="myForm">
+            <label for="account">Account name <br>
+                <input type="text" name="account" placeholder="Account name" id="account">
+                <br>
+                <span id="account-error" class="error" style="color:red;"></span>
+            </label>
+            <br><br>
+            <button type="submit">Save</button>
+        </form>
+    </div>
+</body>
+</html>
