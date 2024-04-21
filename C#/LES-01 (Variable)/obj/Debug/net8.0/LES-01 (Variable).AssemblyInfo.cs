@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LES-01 (Variable)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a9cd253b638733955bef3c21fd5336587609200")]
 [assembly: System.Reflection.AssemblyProductAttribute("LES-01 (Variable)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LES-01 (Variable)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
